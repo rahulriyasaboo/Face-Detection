@@ -5,17 +5,12 @@
 ## Overview  
 A **menu-driven** Python application that automates attendance using facial recognition. It captures images, trains a model, and recognizes faces using **OpenCV** and **Haar Cascade Frontal Face** detection.  
 
-## Project Structure  
-
-Face-Detection-Attendance-System/ │── home.py
-│── capture_image.py
-│── recognize.py
-│── train_image.py
-│── trainer.yml
-│── check_camera.py
-│── haarcascade_frontalface_default.xml
-│── requirements.txt
-│── README.md
+## Technologies Used  
+- **Python** – Core programming language  
+- **OpenCV** – For face detection and recognition  
+- **NumPy** – For handling numerical data  
+- **Pandas** – For data management  
+- **Haar Cascade** – Pre-trained model for frontal face detection 
 
 
 ## Files Description  
